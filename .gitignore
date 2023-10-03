@@ -3,7 +3,7 @@ print(str)
 
 A=float(input("Enter tha first number = "))
 B=float(input("Enter tha second number = "))
-select = input("Choose one symbole (+,-,*,/):\n")
+select = input("Choose operator (+,-,*,/):\n")
 
 if select == "+":
  result = A+B
